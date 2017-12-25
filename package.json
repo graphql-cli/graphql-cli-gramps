@@ -1,0 +1,25 @@
+{
+  "name": "graphql-cli-gramps",
+  "version": "0.1.0",
+  "description": "Link library to add gramps-cli to graphql-cli",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "tsc -d",
+    "pretest": "npm run build",
+    "lint": "tslint src/**/*.ts"
+  },
+  "author": "Kim Brandwijk <kim.brandwijk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@gramps/cli": "^1.0.0-beta.4",
+    "@gramps/gramps": "^1.1.0",
+    "reify": "^0.13.5"
+  },
+  "devDependencies": {
+    "@types/node": "^8.5.1",
+    "tslint": "^5.8.0",
+    "typescript": "^2.6.2"
+  }
+}
