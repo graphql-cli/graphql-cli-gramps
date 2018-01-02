@@ -1,5 +1,5 @@
-# graphql-cli-gramps ![npm](https://img.shields.io/npm/v/graphql-cli-gramps.svg?style=for-the-badge)
-![CircleCI](https://img.shields.io/circleci/project/github/supergraphql/graphql-cli-gramps.svg?style=for-the-badge)![David](https://img.shields.io/david/supergraphql/graphql-cli-gramps.svg?style=for-the-badge)  
+# graphql-cli-gramps ![npm](https://img.shields.io/npm/v/graphql-cli-gramps.svg?style=flat-square)
+![CircleCI](https://img.shields.io/circleci/project/github/supergraphql/graphql-cli-gramps.svg?style=flat-square)![David](https://img.shields.io/david/supergraphql/graphql-cli-gramps.svg?style=flat-square)  
 Plugin for [`graphql-cli`](https://github.com/graphql-cli/graphql-cli). Adds the [`gramps-cli`](https://github.com/gramps-graphql/gramps-cli) to `graphql-cli`.
 
 ## Installation
