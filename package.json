@@ -15,7 +15,7 @@
   "dependencies": {
     "@gramps/cli": "^1.0.0-beta.4",
     "@gramps/gramps": "^1.1.0",
-    "reify": "^0.13.5"
+    "reify": "^0.20.0"
   },
   "devDependencies": {
     "@types/node": "8.5.7",
